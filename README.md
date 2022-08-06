@@ -1,19 +1,26 @@
 ![image](https://user-images.githubusercontent.com/6468571/183256208-c68f8f50-d0fd-4dde-85ad-7e2ea828f78e.png)
 
 # WordPress Lite (Project)
+![image](https://user-images.githubusercontent.com/6468571/183256682-7d3725d4-8bf4-46e5-b77d-4d72af8d8a19.png)
+
 ## WordPress has become more powerful, faster and more compact, introducing the WordPress Lite Project. 
 
 This project's goal is to build a version of WordPress that is both as efficient and as space-saving as is reasonably possible. This will be accomplished by combining several server projects into a single reliable application. A variety of server projects will be combined in order to attain this goal. This will be done so that the objective that has been established for the project may be accomplished.
 
+Because WordPress Lite is plug-and-play, no database configuration or installation is required. This is because no installation needs are necessary. WordPress Lite is a much more efficient and space-saving version of WordPress. Here, WordPress Lite is available for free download. It is not essential to update the database or install additional software; it is sufficient to just add it. 
+
 ![image](https://user-images.githubusercontent.com/6468571/183256289-47223674-67ef-4064-8c4b-09a1bbd97981.png)
 
-Because WordPress Lite is plug-and-play, no database configuration or installation is required. This is because no installation needs are necessary. WordPress Lite is a much more efficient and space-saving version of WordPress. Here, WordPress Lite is available for free download. It is not essential to update the database or install additional software; it is sufficient to just add it. Compatible with more recent PHP versions than version 7.2. Compatible with future releases and implementation-ready Due to the fact that adding public dependencies to a project adds just a little amount of new data, the file storage requirements for tracking many versions of your work are surprisingly low. This is the case since adding public dependents offers minimal more data.
+![image](https://user-images.githubusercontent.com/6468571/183256718-81c2bcfd-529e-4a05-b859-2d2662eef141.png)
+
+Compatible with more recent PHP versions than version 7.2. Compatible with future releases and implementation-ready Due to the fact that adding public dependencies to a project adds just a little amount of new data, the file storage requirements for tracking many versions of your work are surprisingly low. This is the case since adding public dependents offers minimal more data.
 
 ![image](https://user-images.githubusercontent.com/6468571/183256576-c1024d67-7bb7-4798-ab6f-8bbbacf430b7.png)
 
 <hr/>
 
 ## Features
+![image](https://user-images.githubusercontent.com/6468571/183256741-e231fc19-aecb-4a6d-bb9a-94465fbb8a7d.png)
 
 - "Plug and Play," no installation required. 
 
@@ -76,6 +83,7 @@ Using public dependencies adds a negligible amount of files to a project; hence,
 <hr/>
 
 ## Overview
+![image](https://user-images.githubusercontent.com/6468571/183256763-0534ba9a-ccf4-42ad-9bc1-0be1a1a5c26f.png)
 
 Bedrock is a modern WordPress stack that helps you get started with the best development tools and project structure.
 
@@ -86,6 +94,8 @@ Much of the philosophy behind Bedrock is inspired by the [Twelve-Factor App](htt
 <hr/>
 
 ## Features
+
+![image](https://user-images.githubusercontent.com/6468571/183256791-970f3b04-7502-4338-b6fe-c1bf0720dfa8.png)
 
 - Better folder structure
 - Dependency management with [Composer](https://getcomposer.org)
@@ -100,12 +110,17 @@ Much of the philosophy behind Bedrock is inspired by the [Twelve-Factor App](htt
 
 ## Requirements
 
+![image](https://user-images.githubusercontent.com/6468571/183256808-0fbdf414-4266-40f7-9872-1db60287f351.png)
+
+
 - PHP >= 7.4
 - Composer - [Install](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx)
 
 <hr/>
 
 ## Installation
+
+![image](https://user-images.githubusercontent.com/6468571/183256818-79ae853d-999e-4bdf-a8ef-d194691fc636.png)
 
 1. Create a new project:
    ```sh
@@ -140,6 +155,9 @@ Much of the philosophy behind Bedrock is inspired by the [Twelve-Factor App](htt
 <hr/>
 
 ## Community
+
+![image](https://user-images.githubusercontent.com/6468571/183256833-43c385c6-658e-498f-8257-42b84c2d78f0.png)
+
 
 Keep track of development and community news.
 
